@@ -1,6 +1,6 @@
 import requests
 
-domain = 'www.vulnweb.com'
+domain = 'xyz.com'
 
 file = open('subdomnames.txt','r')
 content = file.read()
